@@ -1,5 +1,7 @@
 # AI-generated Research Software
 
+For fun!
+
 ## ChatGPT on Research Software
 
 > “Say something generic about the topic "Research Software" in 200 words“
